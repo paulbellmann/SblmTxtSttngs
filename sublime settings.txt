@@ -27,7 +27,7 @@
 
 	// Font
 	"font_size": 12,
-	// font familey: 
+	// "font_face" : "hello",
 
 	// Don't Know
 	"ignored_packages":
