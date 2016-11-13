@@ -35,3 +35,36 @@
 		"Vintage"
 	],
 }
+
+
+vim
+
+syntax on
+set number
+set ts=4
+
+execute pathogen#infect()
+filetype plugin indent on
+map <C-n> :NERDTreeToggle<CR>
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+
+let python_highlight_all = 1
+colorscheme molokai
+set visualbell
+set backspace=2
+set guifont=Consolas:h11
+
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-h> <C-w>h
+nnoremap <C-l> <C-w>l
+
+set foldmethod=indent
+set foldlevel=99
+
+" windows gui
+set guicursor=n-v-c:ver25-iCursor
+" set guioptions-=m  "remove menu bar
+" set guioptions-=T  "remove toolbar
+set guioptions-=r  "remove right-hand scroll bar
+set guioptions-=L  "remove left-hand scroll bar
