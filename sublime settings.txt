@@ -73,3 +73,6 @@ set guicursor=n-v-c:ver25-iCursor
 " set guioptions-=T  "remove toolbar
 set guioptions-=r  "remove right-hand scroll bar
 set guioptions-=L  "remove left-hand scroll bar
+
+for putty
+http://codeandlife.com/2013/09/22/vim-colorschemes-with-putty-aka-gui-vs-xterm-color256/
