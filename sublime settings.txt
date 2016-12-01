@@ -63,9 +63,6 @@ set foldmethod=indent
 set foldlevel=99
 set cursorline
 
-if has('unix')
-    set t_Co=256
-endif
 
 " windows gui
 set guicursor=n-v-c:ver25-iCursor
@@ -76,3 +73,9 @@ set guioptions-=L  "remove left-hand scroll bar
 
 for putty
 http://codeandlife.com/2013/09/22/vim-colorschemes-with-putty-aka-gui-vs-xterm-color256/
+either 
+if has('unix')
+    set t_Co=256
+endif
+or
+xterm-color256
