@@ -61,6 +61,11 @@ nnoremap <C-l> <C-w>l
 
 set foldmethod=indent
 set foldlevel=99
+set cursorline
+
+if has('unix')
+    set t_Co=256
+endif
 
 " windows gui
 set guicursor=n-v-c:ver25-iCursor
