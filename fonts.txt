@@ -11,7 +11,7 @@ Firefox:
 - Feste Breite: Courier
 
 Key repeat:
-- delay 300ms
-- key repeat 23ms
 
-Tuepker sound of music
+(os x)
+- 300ms / 23ms (os x)
+- 328ms / 50ms (linux)
