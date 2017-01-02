@@ -1,0 +1,16 @@
+fonts
+
+Terminal:
+- Menlo Regular 12 pt.
+
+Firefox:
+- Standard: Times
+- Serif: Times
+- Sans Serif: Helvetica
+- Feste Breite: Courier
+
+Key repeat:
+- delay 300ms
+- key repeat 23ms
+
+Tuepker sound of music
