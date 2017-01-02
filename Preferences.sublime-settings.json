@@ -1,0 +1,43 @@
+{
+	// Cursor Style
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_style": "phase",
+
+	// Line Style
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"highlight_line": true,
+
+	// Color 
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"theme": "Material-Theme.sublime-theme",
+
+	// Editor View
+	"fade_fold_buttons": false,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"overlay_scroll_bars": "enabled",
+	"open_files_in_new_window": false,
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+
+	// Font
+	"font_size": 12,
+	// "font_face" : "hello",
+
+	// Don't Know
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+
+	
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+	"wrap_width": 100
+}
