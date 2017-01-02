@@ -1,7 +1,8 @@
 fonts
 
 Terminal:
-- Menlo Regular 12 pt.
+- Menlo Regular 12 pt. (os x)
+- Monospace Regular 10 pt. (linux)
 
 Firefox:
 - Standard: Times
