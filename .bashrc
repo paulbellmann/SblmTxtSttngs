@@ -11,3 +11,6 @@ alias cd..='cd ..'
 
 alias showall='defaults write com.apple.finder AppleShowAllFiles YES'
 alias hideall='defaults write com.apple.finder AppleShowAllFiles NO'""
+
+
+https://www.youtube.com/watch?v=ADytC9a2g2Y
