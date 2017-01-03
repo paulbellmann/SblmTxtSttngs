@@ -12,6 +12,5 @@ Firefox:
 
 Key repeat:
 
-(os x)
 - 300ms / 23ms (os x)
 - 328ms / 50ms (linux)
